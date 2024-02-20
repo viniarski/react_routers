@@ -3,6 +3,7 @@
   padding: 0;
   background-color: black;
   color: white;
+  overflow: hidden;
 }
 
 body {
@@ -31,4 +32,11 @@ a {
 a:hover {
   color: gray;
   text-decoration: underline;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  margin-bottom: 0;
 }
