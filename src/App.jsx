@@ -2,7 +2,7 @@ import { Routes, Route, Link } from 'react-router-dom';
 import '../src/css/App.css';
 import Home from './pages/Home';
 import About from './pages/About';
-import Gallery from './pages/Gallery';
+import Gallery from './pages/CarGallery';
 import NotFound from './pages/NotFound';
 
 export default function App() {
