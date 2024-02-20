@@ -3,7 +3,7 @@ import '../css/About.css';
 export default function About() {
   return (
     <div className="about-container">
-      <p>
+      <p className="p-about">
         Explore the heart-pounding power and iconic style of American muscle
         cars on our website. From classic legends to modern marvels, discover
         the latest news, reviews, and expert insights on these automotive icons.

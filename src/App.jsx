@@ -20,11 +20,6 @@ export default function App() {
         <Route path="/gallery" element={<Gallery />} />
         <Route path="*" element={<NotFound />} />
       </Routes>
-      <footer>
-        <Link to="/">Home</Link>
-        <Link to="/about">About</Link>
-        <Link to="/gallery">Gallery</Link>
-      </footer>
     </div>
   );
 }

@@ -3,7 +3,7 @@
   justify-content: center;
 }
 
-p {
+.p-about {
   display: flex;
   justify-content: center;
   padding: 4rem;

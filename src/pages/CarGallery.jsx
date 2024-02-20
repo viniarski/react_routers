@@ -1,6 +1,6 @@
 import '../css/Gallery.css';
-import { gallery } from '../stores/gallery.js';
-import Car from './Car.jsx';
+import { gallery } from '../stores/gallery';
+import Car from './Car';
 
 export default function Gallery() {
   return (
