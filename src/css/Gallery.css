@@ -36,3 +36,7 @@ img {
   height: auto;
   margin: 0.5rem;
 }
+
+img:hover {
+  transform: scale(1.1);
+}
